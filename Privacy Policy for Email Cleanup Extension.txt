@@ -1,0 +1,31 @@
+Privacy Policy for Email Cleanup Assistant
+
+Last updated: 18 May, 2025
+
+Email Cleanup Assistant is a Chrome extension developed by The Thrive Cart. We respect your privacy and are committed to protecting your data. This policy explains how our extension accesses, uses, and protects your information.
+
+1. Data Collection
+This extension only requests access to your Gmail inbox metadata through the scope:
+
+https://www.googleapis.com/auth/gmail.readonly
+
+We do not collect, store, or transmit any personal data to any external server. All data is accessed temporarily to help you identify promotional, social, or unread emails within the browser.
+
+2. Use of Permissions
+OAuth2 Authentication: Used only to securely authenticate your Gmail account.
+
+Gmail Readonly Scope: Allows us to read metadata (like subject lines and labels) for cleanup suggestions. We never modify, delete, or send emails.
+
+Identity: Needed to initiate secure OAuth login.
+
+3. No Third-Party Sharing
+Your Gmail data is never shared with third-party services or advertisers.
+
+4. Data Retention
+We do not store any of your email data. The extension runs entirely in your browser session.
+
+5. User Control
+You may revoke the extension’s access at any time via your Google account: Google Permissions
+
+6. Contact
+For questions, contact: thethrivecart.ltd@gmail.com
